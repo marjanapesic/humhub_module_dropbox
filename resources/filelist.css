@@ -1,0 +1,27 @@
+ul.tag_input {
+  list-style: none;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -webkit-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+  transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+  padding: 0 0 9px 4px;
+}
+
+.dropbox_file_remove_link {
+	border: 1px solid #4cd9c0;
+	color: #4cd9c0;
+}
+
+.dropboxInput {
+  list-style: none;
+  color: #000000;
+  border: 2px solid #4cd9c0;
+  border-radius: 4px;
+  font-size: 12px !important;
+  padding: 2px;
+  float: left;
+  margin: 5px 0px 0 4px;
+}

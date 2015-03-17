@@ -1,0 +1,7 @@
+{
+    "id": "dropbox",
+    "name": "Dropbox module",
+    "description": "Allows users to share dropbox files in spaces or user profiles.",
+    "keywords": ["dropbox"],
+	"version": "0.0.1",
+}
